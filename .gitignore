@@ -1,0 +1,23 @@
+# macOS system files that might appear in every folder
+.DS_Store
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build artifacts
+build/
+dist/
+*.log
+
+# Ignore environment variables file
+.env
+
+# Ignore IDE/Editor specific files
+.vscode/
+.idea/
+*.iml
+
+# Ignore dependencies
+package-lock.json
+yarn.lock
+
