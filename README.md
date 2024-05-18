@@ -1,3 +1,5 @@
+Sure, I'll update the README with the given language distribution. Here's the revised README file:
+
 # NFT Marketplace Project
 
 ## Overview
@@ -17,10 +19,12 @@ This project is a website for creating, buying, selling, and minting your own no
 
 ## Language Distribution
 
-- **Motoko**: 40%
-- **JavaScript (React)**: 30%
-- **JavaScript (Node.js & Express.js)**: 20%
-- **HTML/CSS**: 10%
+```
+JavaScript: 58.0%
+CSS: 29.7%
+Motoko: 11.4%
+HTML: 0.9%
+```
 
 ## Installation and Running the Project
 
