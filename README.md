@@ -1,5 +1,3 @@
-Sure, I'll update the README with the given language distribution. Here's the revised README file:
-
 # NFT Marketplace Project
 
 ## Overview
